@@ -30,8 +30,9 @@ body {
 }
 
 .menu_list{
+    z-index: 1;
     background-color: rgba(50, 50, 50, 1);
-    width: 30vw;
+    width: 350px;
     height: 100vh;
     color: #FFFFFF;
     position: fixed;
@@ -80,4 +81,29 @@ body {
 .close_button img {
     width : 30px;
     height: 30px;
+}
+
+h1 {
+    width: 95%;
+    margin: 20px auto;
+}
+
+p {
+    width: 95%;
+    margin: 20px auto;
+}
+
+.menuicon {
+    background-color: #004d44;
+    height: 20px;
+    width: auto;
+    position: relative;
+    top: 4px;
+    z-index: 0;
+}
+
+.minnesota_with_pin {
+    width: 100vw;
+    height: auto;
+    align-items: center;
 }
