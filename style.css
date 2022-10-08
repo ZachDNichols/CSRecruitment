@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    margin-bottom: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -137,4 +138,38 @@ p {
     font-weight: 200;
     margin-left: auto;
     margin-right: auto;
+}
+
+h2 {
+    width: 95%;
+    margin: 0 auto;
+}
+
+ul {
+    width: 95%;
+    margin: 10px auto;
+}
+
+li {
+    margin: 5px auto;
+}
+
+button {
+    width: 50%;
+    height: 30px;
+}
+
+h4 {
+    width : 95%;
+    margin : 20px auto;
+}
+
+.msImage {
+    width: 100px;
+    float: right;
+    position: flex;
+}
+
+.msjobBody {
+    padding-top: 40px;
 }
