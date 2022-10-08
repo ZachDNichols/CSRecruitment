@@ -107,3 +107,34 @@ p {
     height: auto;
     align-items: center;
 }
+
+.main-mobile{
+    color: black;
+    text-align: left;
+}
+
+.main-mobile h1,h3{
+    text-align: center;
+    font-weight: 200;
+    padding-top: 0px;
+}
+
+.main-mobile p{
+    text-align: left;
+    font-weight: 200;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.main-mobile ul{
+    text-align: left;
+    font-weight: 200;
+    margin-left: 10%;
+}
+
+.main-mobile button{
+    text-align: center;
+    font-weight: 200;
+    margin-left: auto;
+    margin-right: auto;
+}
