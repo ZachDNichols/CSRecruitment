@@ -189,3 +189,39 @@ h4 {
     width: 50%;
     height: 30px;
 }
+
+
+/* (Josh S.) GIS related job files */
+.FullAppJ {
+    text-align: left;
+    text-size-adjust: 12px;
+}
+
+.FullAppJ h2 {
+    text-align: center;
+    text-size-adjust: 24 px;
+}
+
+.IFR {
+    display: block;
+    Margin: auto;
+    width: 24%;
+}
+
+.FullAppB {
+    text-align: left;
+}
+
+.FullAppB h3 {
+    text-align: left;
+    text-size-adjust: 20px;
+}
+
+.Btext {
+    align-items: center;
+    font-style: italic,Bold;
+}
+
+.BtextSP {
+    text-align: center;
+}
