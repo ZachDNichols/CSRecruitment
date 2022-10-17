@@ -1,5 +1,3 @@
-# CSRecruitment
+# CS Recruitment Page
 
-# Zach's Pages
-- home.html
-- recruitment.html
+Group Assignment 1 for CS 2270. This repo is no longer active and the assignment has been submitted.
